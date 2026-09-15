@@ -8,7 +8,7 @@ function calculateSum(arr) {
 
 let numbers = [1, 2, 3, 4, 5];
 let result = calculateSum(numbers);
-console.log("Sum in JavaScript:", result
+console.log("Sum in JavaScript:", result);
 
 // Error message:
 // /box/script.js:15
