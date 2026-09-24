@@ -1,7 +1,6 @@
-function add(a, b) {
-  return a + b;
+function multiply(a, b) {
+  return a * b;
 }
 
-console.log(add(5, 3));       // 8
-console.log(add("5", "3"));   // "53"
-console.log(add(5, "3"));     // "53" (no error)
+console.log(multiply(5, 4));       // 20
+console.log(multiply("5", "4"));   // 20
