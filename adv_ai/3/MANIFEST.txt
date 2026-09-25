@@ -1,0 +1,40 @@
+Assignment: Terminal Chat Client with Django and ChatterBot
+==========================================================
+
+This manifest lists the Python source files and supporting files for
+the terminal chatbot client.
+
+Python source
+-------------
+manage.py
+terminal_client.py
+chatbot_project/__init__.py
+chatbot_project/settings.py
+chatbot_project/urls.py
+chatbot_project/wsgi.py
+chatbot_project/asgi.py
+chat/__init__.py
+chat/apps.py
+chat/admin.py
+chat/models.py
+chat/views.py
+chat/bot.py
+chat/conversation.py
+chat/tests.py
+chat/management/__init__.py
+chat/management/commands/__init__.py
+chat/management/commands/train.py
+chat/management/commands/chat.py
+
+Supporting files
+----------------
+requirements.txt
+MANIFEST.txt
+README.md
+.gitignore
+
+Runtime files (generated after setup; do not submit unless requested)
+--------------------------------------------------------------------
+.venv/
+db.sqlite3
+__pycache__/
